@@ -22,4 +22,5 @@ $result = $qtsms->post_message($sms_text, $phone_num, $phone_num, 'x124127456', 
 
 header("Content-Type: text/xml; charset=UTF-8");
 echo "hello";
+?>
 
