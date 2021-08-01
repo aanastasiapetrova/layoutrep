@@ -2,7 +2,7 @@
 
 <?php
 
-echo "fksnbk jksjkn knnzklxblks";
+echo 'fksnbk jksjkn knnzklxblks';
 
 include $_SERVER['DOCUMENT_ROOT'] . '/qtsms.class/QTSMS.class.php';
 //include $_SERVER['DOCUMENT_ROOT'] . '/qtsms.class/test_config.php';
@@ -10,7 +10,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/qtsms.class/QTSMS.class.php';
 $cfg = array(
     'login' => '1690601',					// ваш логин в системе
     'password' => '16906011',				// ваш пароль
-    'host' => 'https://a2p-sms.beeline.ru/public/auth/login/'		// хост для доступа к сервису
+    'host' => 'https://a2p-sms.beeline.ru'		// хост для доступа к сервису
 );
 
 $sms_text = 'test sms';
