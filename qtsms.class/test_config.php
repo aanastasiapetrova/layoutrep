@@ -5,7 +5,7 @@
  */
 
 $cfg = array(
-	'login' => 'aanastasiapetrova',					// ваш логин в системе
-	'password' => 'vkontakte1108',				// ваш пароль
-	'host' => 'https://aanastasiapetrova.github.io/'		// хост для доступа к сервису
+	'login' => '1690601',					// ваш логин в системе
+	'password' => '16906011',				// ваш пароль
+	'host' => 'https://a2p-sms.beeline.ru/public/auth/login/'		// хост для доступа к сервису
 );
