@@ -2,6 +2,8 @@
 
 <?php
 
+echo "fksnbk jksjkn knnzklxblks";
+
 include $_SERVER['DOCUMENT_ROOT'] . '/qtsms.class/QTSMS.class.php';
 //include $_SERVER['DOCUMENT_ROOT'] . '/qtsms.class/test_config.php';
 
